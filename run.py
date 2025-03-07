@@ -31,5 +31,6 @@ if __name__ == '__main__':
     pytest.main()
 
     os.system("allure serve report/data ")
-#这是我第二次提交
-#这是我的第三次提交
+
+#我这里是新增的本地
+#这是是新增的本地的2
