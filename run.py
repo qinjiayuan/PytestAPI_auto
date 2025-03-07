@@ -33,6 +33,5 @@ if __name__ == '__main__':
     os.system("allure serve report/data ")
 
 #我这里是新增的本地
-#这是是新增的本地的2
 #这是我远程仓库测试冲突的提交
 
